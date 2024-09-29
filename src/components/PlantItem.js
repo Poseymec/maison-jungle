@@ -18,4 +18,4 @@ function PlantItem({ id, cover, name, water, light }) {
 	)
 }
 
-export default PlantItem
+export default PlantItem 
